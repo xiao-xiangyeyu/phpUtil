@@ -1,0 +1,16 @@
+{
+    "name": "yeyu/php-util",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yeyu\\PhpUtil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xiaoxiang-yeyu",
+            "email": "1570491707@qq.com"
+        }
+    ],
+    "require": {}
+}
